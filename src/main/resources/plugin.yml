@@ -1,5 +1,5 @@
 name: WatonPlugin
-version: 1.0
+version: 0.1
 main: github.lamorision.watonplugin.WatonPlugin
 api-version: 1.17
 depend: [ProtocolLib]
